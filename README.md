@@ -1,5 +1,5 @@
 # GuiaPerguntas
-Consiste em uma plataforma de perguntas e respostas anônimas desenvolvida com Node.js
+Plataforma de perguntas e respostas anônimas desenvolvida com Node.js
 
 ## Screenshots
 <div align="center" >
